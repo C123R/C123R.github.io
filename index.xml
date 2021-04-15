@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cizer Pereira</title>
+    <link>https://c123r.github.io/</link>
+    <description>Recent content on Cizer Pereira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://c123r.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://c123r.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://c123r.github.io/about/</guid>
+      <description>Hi there 👋,
+I’m Cizer Pereira from Mumbai, India. Currently working in Munich as a Software Engineer - Infrastructure at Zeissfor shaping the digital future of ZEISS.
+I&amp;rsquo;m passionate about containers, distributed networks, and monitoring, and I enjoy automating complex software tasks, which I get to do as part of my work. In my spare time, I try to contribute as much as possible to the open source community. Here are few of my contributations:</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://c123r.github.io/post/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://c123r.github.io/post/</guid>
+      <description> MS Azure DevOps: On-Demand Agents - Part 1 MS Azure DevOps: On-Demand Agents - Part 2  </description>
+    </item>
+    
+  </channel>
+</rss>
